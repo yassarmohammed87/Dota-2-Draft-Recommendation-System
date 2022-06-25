@@ -1,0 +1,9 @@
+gensim==4.2.0
+matplotlib==3.3.3
+numpy==1.19.5
+pandas==1.1.5
+Pillow==9.1.1
+requests==2.25.1
+streamlit==1.0.0
+tensorflow==2.4.1
+tensorflow_datasets==4.3.0

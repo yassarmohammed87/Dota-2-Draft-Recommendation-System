@@ -1,0 +1,8 @@
+.stButton>button {
+    color:crimson;
+    background-color:rgb(38, 51, 49);
+    height: 5em;
+    width: 5em;
+    font-size: 1em;
+    
+}

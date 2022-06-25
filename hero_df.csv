@@ -1,0 +1,121 @@
+sid,id,name,localized_name,primary_attr,attack_type,roles,legs,color,image_names
+0,1,npc_dota_hero_antimage,Anti-Mage,agi,Melee,['Carry'],2,red,Anti-Mage.png
+1,2,npc_dota_hero_axe,Axe,str,Melee,['Offlane'],2,red,Axe.png
+2,3,npc_dota_hero_bane,Bane,int,Ranged,['Support'],4,blue,Bane.png
+3,4,npc_dota_hero_bloodseeker,Bloodseeker,agi,Melee,"['Offlane','Carry' ]",2,red,Bloodseeker.png
+4,5,npc_dota_hero_crystal_maiden,Crystal Maiden,int,Ranged,['Support'],2,blue,Crystal Maiden.png
+5,6,npc_dota_hero_drow_ranger,Drow Ranger,agi,Ranged,['Carry'],2,red,Drow Ranger.png
+6,7,npc_dota_hero_earthshaker,Earthshaker,str,Melee,['Support'],2,blue,Earthshaker.png
+7,8,npc_dota_hero_juggernaut,Juggernaut,agi,Melee,['Carry'],2,red,Juggernaut.png
+8,9,npc_dota_hero_mirana,Mirana,agi,Ranged,['Support'],2,purple,Mirana.png
+9,10,npc_dota_hero_morphling,Morphling,agi,Ranged,"['Carry','Mid']",0,red,Morphling.png
+10,11,npc_dota_hero_nevermore,Shadow Fiend,agi,Ranged,['Mid'],0,red,Shadow Fiend.png
+11,12,npc_dota_hero_phantom_lancer,Phantom Lancer,agi,Melee,['Carry'],2,red,Phantom Lancer.png
+12,13,npc_dota_hero_puck,Puck,int,Ranged,['Mid'],2,gray,Puck.png
+13,14,npc_dota_hero_pudge,Pudge,str,Melee,"['Support','Mid']",2,gray,Pudge.png
+14,15,npc_dota_hero_razor,Razor,agi,Ranged,"['Mid','Carry', 'Offlane']",0,red,Razor.png
+15,16,npc_dota_hero_sand_king,Sand King,str,Melee,['Offlane'],6,blue,Sand King.png
+16,17,npc_dota_hero_storm_spirit,Storm Spirit,int,Ranged,['Mid'],2,red,Storm Spirit.png
+17,18,npc_dota_hero_sven,Sven,str,Melee,['Carry'],2,red,Sven.png
+18,19,npc_dota_hero_tiny,Tiny,str,Melee,"['Mid','Carry', 'Support']",2,red,Tiny.png
+19,20,npc_dota_hero_vengefulspirit,Vengeful Spirit,agi,Ranged,['Support'],2,blue,Vengeful Spirit.png
+20,21,npc_dota_hero_windrunner,Windranger,int,Ranged,"['Mid', 'Support']",2,purple,Windranger.png
+21,22,npc_dota_hero_zuus,Zeus,int,Ranged,['Mid'],2,red,Zeus.png
+22,23,npc_dota_hero_kunkka,Kunkka,str,Melee,"['Mid','Offlane']",2,purple,Kunkka.png
+23,25,npc_dota_hero_lina,Lina,int,Ranged,"['Mid','Support']",2,purple,Lina.png
+24,26,npc_dota_hero_lion,Lion,int,Ranged,['Support'],2,blue,Lion.png
+25,27,npc_dota_hero_shadow_shaman,Shadow Shaman,int,Ranged,['Support'],2,blue,Shadow Shaman.png
+26,28,npc_dota_hero_slardar,Slardar,str,Melee,['Offlane'],0,red,Slardar.png
+27,29,npc_dota_hero_tidehunter,Tidehunter,str,Melee,['Offlane'],2,red,Tidehunter.png
+28,30,npc_dota_hero_witch_doctor,Witch Doctor,int,Ranged,['Support'],2,blue,Witch Doctor.png
+29,31,npc_dota_hero_lich,Lich,int,Ranged,['Support'],2,blue,Lich.png
+30,32,npc_dota_hero_riki,Riki,agi,Melee,['Carry'],2,red,Riki.png
+31,33,npc_dota_hero_enigma,Enigma,int,Ranged,"['Support', 'Offlane']",0,gray,Enigma.png
+32,34,npc_dota_hero_tinker,Tinker,int,Ranged,['Mid'],2,red,Tinker.png
+33,35,npc_dota_hero_sniper,Sniper,agi,Ranged,['Mid'],2,red,Sniper.png
+34,36,npc_dota_hero_necrolyte,Necrophos,int,Ranged,"['Mid','Offlane']",2,red,Necrophos.png
+35,37,npc_dota_hero_warlock,Warlock,int,Ranged,['Support'],2,blue,Warlock.png
+36,38,npc_dota_hero_beastmaster,Beastmaster,str,Melee,['Offlane'],2,gray,Beastmaster.png
+37,39,npc_dota_hero_queenofpain,Queen of Pain,int,Ranged,['Mid'],2,red,Queen of Pain.png
+38,40,npc_dota_hero_venomancer,Venomancer,agi,Ranged,"['Offlane','Support']",0,blue,Venomancer.png
+39,41,npc_dota_hero_faceless_void,Faceless Void,agi,Melee,['Carry'],2,red,Faceless Void.png
+40,42,npc_dota_hero_skeleton_king,Wraith King,str,Melee,['Carry'],2,purple,Wraith King.png
+41,43,npc_dota_hero_death_prophet,Death Prophet,int,Ranged,['Mid'],2,red,Death Prophet.png
+42,44,npc_dota_hero_phantom_assassin,Phantom Assassin,agi,Melee,['Carry'],2,red,Phantom Assassin.png
+43,45,npc_dota_hero_pugna,Pugna,int,Ranged,"['Mid', 'Support']",2,gray,Pugna.png
+44,46,npc_dota_hero_templar_assassin,Templar Assassin,agi,Ranged,['Mid'],2,red,Templar Assassin.png
+45,47,npc_dota_hero_viper,Viper,agi,Ranged,"['Mid','Offlane']",0,red,Viper.png
+46,48,npc_dota_hero_luna,Luna,agi,Ranged,['Carry'],2,red,Luna.png
+47,49,npc_dota_hero_dragon_knight,Dragon Knight,str,Melee,"['Mid','Offlane']",2,red,Dragon Knight.png
+48,50,npc_dota_hero_dazzle,Dazzle,int,Ranged,['Support'],2,blue,Dazzle.png
+49,51,npc_dota_hero_rattletrap,Clockwerk,str,Melee,['Support'],2,gray,Clockwerk.png
+50,52,npc_dota_hero_leshrac,Leshrac,int,Ranged,['Mid'],4,purple,Leshrac.png
+51,53,npc_dota_hero_furion,Nature's Prophet,int,Ranged,"['Offlane','Mid','Support']",2,red,Nature's Prophet.png
+52,54,npc_dota_hero_life_stealer,Lifestealer,str,Melee,['Carry'],2,red,Lifestealer.png
+53,55,npc_dota_hero_dark_seer,Dark Seer,int,Melee,['Offlane'],2,gray,Dark Seer.png
+54,56,npc_dota_hero_clinkz,Clinkz,agi,Ranged,"['Carry','Mid']",2,red,Clinkz.png
+55,57,npc_dota_hero_omniknight,Omniknight,str,Melee,['Support''],2,blue,Omniknight.png
+56,58,npc_dota_hero_enchantress,Enchantress,int,Ranged,"['Support', 'Offlane']",4,blue,Enchantress.png
+57,59,npc_dota_hero_huskar,Huskar,str,Ranged,['Mid'],2,red,Huskar.png
+58,60,npc_dota_hero_night_stalker,Night Stalker,str,Melee,['Offlane'],2,red,Night Stalker.png
+59,61,npc_dota_hero_broodmother,Broodmother,agi,Melee,"['Mid', 'Offlane']",8,red,Broodmother.png
+60,62,npc_dota_hero_bounty_hunter,Bounty Hunter,agi,Melee,"['Support', 'Offlane']",2,gray,Bounty Hunter.png
+61,63,npc_dota_hero_weaver,Weaver,agi,Ranged,"['Carry', 'Support']",4,red,Weaver.png
+62,64,npc_dota_hero_jakiro,Jakiro,int,Ranged,['Support''],2,blue,Jakiro.png
+63,65,npc_dota_hero_batrider,Batrider,int,Ranged,"['Mid', 'Offlane']",2,gray,Batrider.png
+64,66,npc_dota_hero_chen,Chen,int,Ranged,['Support''],2,blue,Chen.png
+65,67,npc_dota_hero_spectre,Spectre,agi,Melee,['Carry'],0,red,Spectre.png
+66,68,npc_dota_hero_ancient_apparition,Ancient Apparition,int,Ranged,['Support''],2,blue,Ancient Apparition.png
+67,69,npc_dota_hero_doom_bringer,Doom,str,Melee,"['Offlane','Mid']",2,red,Doom.png
+68,70,npc_dota_hero_ursa,Ursa,agi,Melee,['Carry'],2,red,Ursa.png
+69,71,npc_dota_hero_spirit_breaker,Spirit Breaker,str,Melee,['Support'],2,red,Spirit Breaker.png
+70,72,npc_dota_hero_gyrocopter,Gyrocopter,agi,Ranged,['Carry'],2,red,Gyrocopter.png
+71,73,npc_dota_hero_alchemist,Alchemist,str,Melee,"['Carry','Mid']",2,purple,Alchemist.png
+72,74,npc_dota_hero_invoker,Invoker,int,Ranged,['Mid'],2,red,Invoker.png
+73,75,npc_dota_hero_silencer,Silencer,int,Ranged,"['Support','Mid']",2,purple,Silencer.png
+74,76,npc_dota_hero_obsidian_destroyer,Outworld Destroyer,int,Ranged,['Mid'],4,red,Outworld Destroyer.png
+75,77,npc_dota_hero_lycan,Lycan,str,Melee,"['Offlane','Carry']",2,red,Lycan.png
+76,78,npc_dota_hero_brewmaster,Brewmaster,str,Melee,['Offlane'],2,red,Brewmaster.png
+77,79,npc_dota_hero_shadow_demon,Shadow Demon,int,Ranged,['Support'],2,blue,Shadow Demon.png
+78,80,npc_dota_hero_lone_druid,Lone Druid,agi,Ranged,"['Mid','Carry']",2,red,Lone Druid.png
+79,81,npc_dota_hero_chaos_knight,Chaos Knight,str,Melee,"['Carry', 'Offlane']",2,red,Chaos Knight.png
+80,82,npc_dota_hero_meepo,Meepo,agi,Melee,['Mid'],2,red,Meepo.png
+81,83,npc_dota_hero_treant,Treant Protector,str,Melee,['Support'],2,blue,Treant Protector.png
+82,84,npc_dota_hero_ogre_magi,Ogre Magi,int,Melee,['Support'],2,blue,Ogre Magi.png
+83,85,npc_dota_hero_undying,Undying,str,Melee,['Support'],2,blue,Undying.png
+84,86,npc_dota_hero_rubick,Rubick,int,Ranged,['Support'],2,blue,Rubick.png
+85,87,npc_dota_hero_disruptor,Disruptor,int,Ranged,['Support'],2,blue,Disruptor.png
+86,88,npc_dota_hero_nyx_assassin,Nyx Assassin,agi,Melee,['Support'],6,gray,Nyx Assassin.png
+87,89,npc_dota_hero_naga_siren,Naga Siren,agi,Melee,['Carry'],0,purple,Naga Siren.png
+88,90,npc_dota_hero_keeper_of_the_light,Keeper of the Light,int,Ranged,['Support'],2,blue,Keeper of the Light.png
+89,91,npc_dota_hero_wisp,Io,str,Ranged,['Support'],0,blue,Io.png
+90,92,npc_dota_hero_visage,Visage,int,Ranged,['Mid'],2,blue,Visage.png
+91,93,npc_dota_hero_slark,Slark,agi,Melee,['Carry'],2,red,Slark.png
+92,94,npc_dota_hero_medusa,Medusa,agi,Ranged,"['Carry','Mid']",0,red,Medusa.png
+93,95,npc_dota_hero_troll_warlord,Troll Warlord,agi,Ranged,"['Carry','Mid']",2,red,Troll Warlord.png
+94,96,npc_dota_hero_centaur,Centaur Warrunner,str,Melee,['Offlane'],4,gray,Centaur Warrunner.png
+95,97,npc_dota_hero_magnataur,Magnus,str,Melee,"['Offlane','Mid']",4,gray,Magnus.png
+96,98,npc_dota_hero_shredder,Timbersaw,str,Melee,['Offlane'],2,gray,Timbersaw.png
+97,99,npc_dota_hero_bristleback,Bristleback,str,Melee,['Offlane'],2,red,Bristleback.png
+98,100,npc_dota_hero_tusk,Tusk,str,Melee,['Support'],2,gray,Tusk.png
+99,101,npc_dota_hero_skywrath_mage,Skywrath Mage,int,Ranged,"['Support','Mid']",2,blue,Skywrath Mage.png
+100,102,npc_dota_hero_abaddon,Abaddon,str,Melee,"['Support', 'Offlane']",2,purple,Abaddon.png
+101,103,npc_dota_hero_elder_titan,Elder Titan,str,Melee,"['Support','Offlane']",2,gray,Elder Titan.png
+102,104,npc_dota_hero_legion_commander,Legion Commander,str,Melee,['Offlane'],2,red,Legion Commander.png
+103,105,npc_dota_hero_techies,Techies,int,Ranged,['Support'],6,gray,Techies.png
+104,106,npc_dota_hero_ember_spirit,Ember Spirit,agi,Melee,"['Mid','Carry']",2,red,Ember Spirit.png
+105,107,npc_dota_hero_earth_spirit,Earth Spirit,str,Melee,['Support'],2,gray,Earth Spirit.png
+106,108,npc_dota_hero_abyssal_underlord,Underlord,str,Melee,['Offlane'],2,blue,Underlord.png
+107,109,npc_dota_hero_terrorblade,Terrorblade,agi,Melee,['Carry'],2,red,Terrorblade.png
+108,110,npc_dota_hero_phoenix,Phoenix,str,Ranged,['Support'],2,blue,Phoenix.png
+109,111,npc_dota_hero_oracle,Oracle,int,Ranged,['Support'],2,blue,Oracle.png
+110,112,npc_dota_hero_winter_wyvern,Winter Wyvern,int,Ranged,['Support'],2,blue,Winter Wyvern.png
+111,113,npc_dota_hero_arc_warden,Arc Warden,agi,Ranged,"['Carry','Mid']",2,red,Arc Warden.png
+112,114,npc_dota_hero_monkey_king,Monkey King,agi,Melee,"['Carry','Mid','Support']",2,red,Monkey King.png
+113,119,npc_dota_hero_dark_willow,Dark Willow,int,Ranged,['Support'],2,blue,Dark Willow.png
+114,120,npc_dota_hero_pangolier,Pangolier,agi,Melee,"['Offlane','Mid' ,'Support']",2,red,Pangolier.png
+115,121,npc_dota_hero_grimstroke,Grimstroke,int,Ranged,['Support'],2,blue,Grimstroke.png
+116,123,npc_dota_hero_hoodwink,Hoodwink,agi,Ranged,['Support'],2,gray,Hoodwink.png
+117,126,npc_dota_hero_void_spirit,Void Spirit,int,Melee,['Mid'],2,red,Void Spirit.png
+118,128,npc_dota_hero_snapfire,Snapfire,str,Ranged,['Support'],2,blue,Snapfire.png
+119,129,npc_dota_hero_mars,Mars,str,Melee,['Offlane'],2,red,Mars.png
